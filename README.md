@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
-</p>
-
 # 👋 Hi, I'm Mohamed Eslam Metwally  
 
 🎓 **AI/ML Engineer** | Senior Student at Faculty of Artificial Intelligence, Zagazig University  
@@ -15,8 +11,8 @@ I focus on solving real-world problems using **Machine Learning, NLP, and Comput
 - 🤖 **Machine Learning** – Supervised & Unsupervised models, predictive modeling.  
 - 🧠 **Deep Learning** – Neural networks for classification, recognition, and feature extraction.  
 - 🖼 **Computer Vision** – Image classification, object detection, and real-time recognition.  
-- 📝 **Natural Language Processing (NLP)** – text classification, sentiment analysis.  
-- 📊 **Data Analysis** – data preprocessing, visualization, and feature engineering.  
+- 📝 **Natural Language Processing (NLP)** – Text classification, sentiment analysis.  
+- 📊 **Data Analysis** – Data preprocessing, visualization, and feature engineering.  
 
 ---
 
@@ -30,7 +26,14 @@ I focus on solving real-world problems using **Machine Learning, NLP, and Comput
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,opencv,pandas,numpy,matplotlib,git,linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
@@ -59,10 +62,7 @@ I focus on solving real-world problems using **Machine Learning, NLP, and Comput
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/metwally-eslam-398098283"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/MohamedEslam"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="mailto:metwallyeslam40@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.facebook.com/share/18iE9EFxuW/"><img src="https://skillicons.dev/icons?i=facebook" /></a>
-</p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/metwally-eslam-398098283)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MohamedEslam)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:metwallyeslam40@gmail.com)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18iE9EFxuW/)  
