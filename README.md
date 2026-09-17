@@ -77,7 +77,7 @@ I'm a Data Analyst with a strong Machine Learning foundation, passionate about t
 
 | Project | Description | Result |
 |---|---|---|
-| 🏦 **Berka Bank — Power BI Dashboard** | 8-page BI dashboard analyzing 6 years of banking data (clients, accounts, loans, cards, transactions, orders) using Power BI, Power Query & DAX | 5.4K clients, 6bn transaction volume analyzed |
+| 🏦 **[Berka Bank] [— Power BI Dashboard](https://github.com/MohamedEslam111/berka-bank-powerbi-analysis)** | 8-page BI dashboard analyzing 6 years of banking data (clients, accounts, loans, cards, transactions, orders) using Power BI, Power Query & DAX | 5.4K clients, 6bn transaction volume analyzed |
 
 ---
 
