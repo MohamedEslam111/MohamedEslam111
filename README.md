@@ -60,8 +60,12 @@ I'm a Data Analyst with a strong Machine Learning foundation, passionate about t
 | Data Analysis Training | Information Technology Institute (ITI) |
 
 ---
+#### 📊 Data Analysis Projects
 
-### 📌 Featured Projects
+| Project | Description | Result |
+|---|---|---|
+| 🏦 **[Berka Bank] [— Power BI Dashboard](https://github.com/MohamedEslam111/berka-bank-powerbi-analysis)** | 8-page BI dashboard analyzing 6 years of banking data (clients, accounts, loans, cards, transactions, orders) using Power BI, Power Query & DAX | 5.4K clients, 6bn transaction volume analyzed |
+
 
 #### 🤖 Machine Learning & Deep Learning Projects
 
@@ -72,13 +76,6 @@ I'm a Data Analyst with a strong Machine Learning foundation, passionate about t
 | 💰 **[Income Prediction](https://github.com/MohamedEslam111/Project_NTI)** | XGBoost classifier predicting income level on the Adult Census dataset | 83.31% accuracy, 0.89 AUC |
 | 🏠 **House Price Prediction** | XGBoost regression on the California Housing dataset | R² = 0.837 |
 | 🌦 **[Weather Prediction](https://github.com/MohamedEslam111/Weather-Prediction-using-Logistic-Regression)** | Logistic regression classifier for weather forecasting | 85.07% accuracy after tuning |
-
-#### 📊 Data Analysis Projects
-
-| Project | Description | Result |
-|---|---|---|
-| 🏦 **[Berka Bank] [— Power BI Dashboard](https://github.com/MohamedEslam111/berka-bank-powerbi-analysis)** | 8-page BI dashboard analyzing 6 years of banking data (clients, accounts, loans, cards, transactions, orders) using Power BI, Power Query & DAX | 5.4K clients, 6bn transaction volume analyzed |
-
 ---
 
 ### 📊 GitHub Stats
